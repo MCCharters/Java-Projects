@@ -1,6 +1,8 @@
-This is the starter file for the Appointments project.  Students are to branch from it, and make modifications as per instructions.  Students are to make frequent commits to their project, to show the various stages of the project.  Then, students are to give me access to their branch, so I can see the changes.  A grade will be given based on:
+This is the starter file for the Appointments project.  Students are to clone it, so they can later branch from it, and 
+make modifications as per instructions.  Students are to make frequent commits to their project, to show the various stages of the project.  Then, students are to give me access to their branch, so I can see the changes.  A grade will be given based on:
 1.  the creation of a Repository on GitHub
-2.  the branching of my starter.zip file to the student's repo
-3.  the use of commits to frequently save different versions of program
-4.  the final version of program
+2.  the cloning of my starter.zip file to the student's repo
+3.  the branching from the clone
+4.  the use of commits to frequently save different versions of program
+5.  the final version of program
 ****  Do NOT push back to Master! ***
